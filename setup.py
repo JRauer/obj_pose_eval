@@ -10,5 +10,5 @@ setup(
     url='https://github.com/thodan/obj_pose_eval',
     packages=['obj_pose_eval'],
     license='The MIT License',
-    install_requires=['scipy', 'numpy', 'glumpy', 'matplotlib']
+    #install_requires=['scipy', 'numpy', 'glumpy', 'matplotlib']
 )
